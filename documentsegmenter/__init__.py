@@ -1,0 +1,2 @@
+from documentsegmenter.nltksegmenter import Segmenter as NltkSegmenter
+from documentsegmenter.spacesegmenter import Segmenter as SpacySegmenter
